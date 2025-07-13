@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vambam.netlify.app/sitemap.xml
